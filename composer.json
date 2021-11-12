@@ -1,0 +1,21 @@
+{
+    "name": "arispati/php-encrypt-file",
+    "description": "PHP library for encrypt and decrypt file",
+    "type": "library",
+    "require": {
+        "php": "^7|^8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Arispati\\PhpEncryptFile\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhamad Aris",
+            "email": "masarispati@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
